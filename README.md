@@ -1,2 +1,2 @@
-# School
-A place for school related projects
+# Operating Systems
+A place for work related to operating systems class
